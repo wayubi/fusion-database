@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 12-27-04: <item_db> Corrected some item heal range 560~569 and updated some item price [taicomjp]
+- 12-27-04: <item_db> Added item 662, Crest of the Horse 569, Novices Red Potion [taicomjp]
 - 12-26-04: <exp_db> Addes colum of Supernovice,advanced classes base, high novice job, 1st classes job, 2st classes job [taicomjp]
 - 12-26-04: <mapinfo_db> Corrected job_knight, job_knt, morocc_in, niflheim, que_god02 [taicomjp]
 - 12-26-04: <wp_db> Corrected size [taicomjp]
