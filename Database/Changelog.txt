@@ -2,6 +2,8 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 03-24-2004: <item_db> Fixed the Bug #705, added correct selling prices [KrietoR]
+- 04-06-2004: <mapinfo_db> Added n_castle.gat,memo,save,teleport,pvp,nopvpg [KrietoR]
 - 04-05-2004: <mob_db> Name Correction Garm > 2nd name Hatii [KrietoR]
 - 04-05-2004: <mob_db> Name Correction Horing > Horong [KrietoR]
 - 04-05-2004: <mob_db> Name Correction ELDER_WILOW > ELDER_WILLOW [KrietoR]

@@ -147,6 +147,7 @@ lou_in02.gat,memo,save,teleport,pvp,nopvpg
 lou_dun01.gat,memo,save,teleport,pvp,nopvpg
 lou_dun02.gat,memo,save,teleport,pvp,nopvpg
 lou_dun03.gat,memo,save,teleport,pvp,nopvpg
+n_castle.gat,memo,save,teleport,pvp,nopvpg
 mag_dun01.gat,memo,save,teleport,pvp,nopvpg
 mag_dun02.gat,memo,save,teleport,pvp,nopvpg
 mjo_dun01.gat,memo,save,teleport,pvp,nopvpg
