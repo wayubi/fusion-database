@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-12-2004: (mob_db) fixed some monster modes [Eliot]
 - 01-12-2004: (item_db) corrected some item names to match real ones. [Eliot]
 - 01-11-2004: (skill_db) Changed requirement for Alchemist -> Chemical Protection Shield. [KyuubiKitsune]
 - 01-11-2004: (skill_db) Changed requirement for Alchemist -> Drillmaster. [KyuubiKitsune]
