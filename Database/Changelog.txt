@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-13-2004: <mob_db>  Name Correction Wilow > Willow [KrietoR]
 - 03-13-2004: <item_db> Fixed Magnolia_Card, 500% chance to "Curse" > 5% chance to "Curse" [KrietoR]
 - 03-13-2004: <item_db> Rolledback to 1.31, Necron made a mess [Eliot]
 - 03-13-2004: <item_db> Rolled back Necron's changes due to numerous errors, PLEASE be carefull [Eliot]
