@@ -2,7 +2,8 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
-- 04-11-2004: <warp_db> Added an example warp database 
+- 04-11-2004: Added new AI database [Darkhelmet]
+- 04-11-2004: <warp_db> Added an example warp database [Darkhelmet]
 - 04-08-2004: <mapinfo_db> Added nomemo nosave, in valkyrie map [KrietoR]
 - 04-07-2004: <mob_db> Added mob to ARCHANGELING [KrietoR]
 - 04-06-2004: <item_db> Fixed the Bug #705, added correct selling prices [KrietoR]
