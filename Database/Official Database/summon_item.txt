@@ -765,12 +765,12 @@ Old_Violet_Box,White_Potion,1
 Old_Violet_Box,Blue_Potion,1
 Old_Violet_Box,Green_Potion,1
 Old_Violet_Box,Honey,1
-Old_Violet_Box,Leaflet_of_Hinal,1
-Old_Violet_Box,Leaflet_of_Aloe,2
+Old_Violet_Box,Hinalle_Leaflet,1
+Old_Violet_Box,Aloe_Leaflet,2
 Old_Violet_Box,Panacea,1
 Old_Violet_Box,Royal_Jelly,1
 Old_Violet_Box,Candy,1
-Old_Violet_Box,Candy_Striper,1
+Old_Violet_Box,Candy_Cane,1
 Old_Violet_Box,Old_Blue_Box,40
 Old_Violet_Box,Branch_of_Dead_Tree,9
 Old_Violet_Box,Anti_Painment,1

@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.211
 ------------------------------------------------------------------------------------------
+- 06-05-2004: Corrected the freezing error and added all new items I could. Fixed the item name mismatches between summon_item.txt and item_db.txt. [Trihan]
 - 06-04-2004: Added item 7193, Sprout. [Trihan]
 - 06-04-2004: Added item 7192, Pinwheel. [Trihan]
 - 06-04-2004: Added item 7191, Lantern. [Trihan]
