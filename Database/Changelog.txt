@@ -1,6 +1,10 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 01-19-05: <item_db>  corrected weight of item 12004~12015 [taicomjp]
+- 01-19-05: <item_db>  Added item 12018, Fire_Cracker [taicomjp]
+- 01-19-05: <item_db>  Added item 12017, Decrease_Speed_Potion [taicomjp]
+- 01-19-05: <item_db>  Added item 12016, Increase_Speed_Potion [taicomjp]
 - 01-18-05: <item_db>  Added item 7303, Rice_Straw_Bag [taicomjp]
 - 01-18-05: <item_db>  Added item 573, Chocolate_Drink [taicomjp]
 - 01-18-05: <item_db>  Added item 572, Good_Fortune_Cookie [taicomjp]
