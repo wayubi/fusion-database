@@ -1,6 +1,11 @@
 --------------------------------------------------------------------------------
  Fusion 1.214 - 
 --------------------------------------------------------------------------------
+- 02-11-05: Corrected item atk Axe, Cleaver, Battle Axe, Hammer, Book, Bible, Tablet [taicomjp]
+- 02-11-05: Corrected some item heal range [taicomjp]
+- 02-11-05: Corrected some mob drop [taicomjp]
+- 02-11-05: Corrected some item name [taicomjp]
+- 02-11-05: Corrected some skill name [taicomjp]
 - 02-10-05: Updated skill SN_SIGHT, SN_WINDWALK, WS_MELTDOWN [taicomjp]
 - 02-10-05: Corrected mob Deviling, CIVIL_SERVANT, HYEGUN, DANCING_DRAGON, GARM_BABY, INCREASE_SOIL, LI_ME_MANG_RYANG [taicomjp]
 - 02-08-05: Updated skill SM_MAGNUM, SM_PROVOKE, MC_INCCARRY, WZ_METEOR, WZ_ICEWALL, AS_SPLASHER [taicomjp]
