@@ -1,6 +1,10 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 12-25-04: <item_db> Corrected skill Cold Bolt lv 3 [taicomjp]
+- 12-25-04: <item_db> Added item 12000~12015 [taicomjp]
+- 12-25-04: <item_db> Added item 686~700 [taicomjp]
+- 12-25-04: <item_db> cancel 11/19 job change [taicomjp]
 - 11-23-04: <Monster_AI> Added DIABOLIC 'mob_skill [taicomjp]
 - 11-23-04: <Monster_AI> Added BLAZZER 'mob_skill [taicomjp]
 - 11-23-04: <Monster_AI> Added G_ASSULTER 'mob_skill [taicomjp]
