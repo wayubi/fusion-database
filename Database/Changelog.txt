@@ -2,6 +2,11 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-14-2004:<item_db> Name Correction Center_Potion >  Concentration_Potion. [~Necron~]
+- 03-14-2004:<item_db> Job Correction All Dagger Class (Now Bard and Dancer can equip). [~Necron~]
+- 03-14-2004:<item_db> Fix Data for Princess Knife > +1 All Stat. [~Necron~]
+- 03-14-2004:<item_db> Fix Data for Cursed Knife > Only Mage Class can Equip. [~Necron~]
+- 03-14-2004:<item_db> Fix Data for Counter Knife > Only Mage Class can Equip. [~Necron~]
 - 03-13-2004: <item_db> Fixed Soldier_Andre_Card, 70% Tolerance against Plant > 30% Tolerance against Plant [KrietoR]
 - 03-13-2004: <item_db> Fixed Metaller_Card, 500% chance to Silence > 5% chance to Silence [KrietoR]
 - 03-13-2004: <item_db> Fixed Dustiness_Card, changed to 30% Wind Tolerance. +5 Flee [KrietoR]
