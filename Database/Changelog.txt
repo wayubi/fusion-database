@@ -1,10 +1,11 @@
+- 05-14-2004: <item_db> Added item 558, and 559 [KrietoR]
 - 05-06-2004: <skill_db> Updated LoV Data1. [Colus]
 
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
-- 05-04=2004: <summon_item> - Bug fix #827 (and a bit more) [ChrstphrR]
+- 05-04-2004: <summon_item> - Bug fix #827 (and a bit more) [ChrstphrR]
 - 05-02-2004: <mapinfo_db> Added pvp, and swordsman test maps [Muad_Dib, via ChrstphrR]
 - 04-20-2004: <summon_mobID> "replacement" DB for replacement SummonMobList code in Core [ChrstphrR]
 - 04-20-2004: <item_db> Correction Name Anodyne > Anti_Painment [KrietoR]
