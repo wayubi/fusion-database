@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-13-2004: <item_db> Rolledback to 1.31, Necron made a mess [Eliot]
 - 03-13-2004: <item_db> Rolled back Necron's changes due to numerous errors, PLEASE be carefull [Eliot]
 - 03-13-2004: <skill_DB> Various corrections to upper-skill data. [Colus]
 - 03-13-2004: <item_db> Fixed Soldier_Andre_Card, 70% Tolerance against Plant > 30% Tolerance against Plant [KrietoR]
