@@ -1,6 +1,12 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 12-26-04: <exp_db> Addes colum of Supernovice,advanced classes base, high novice job, 1st classes job, 2st classes job [taicomjp]
+- 12-26-04: <mapinfo_db> Corrected job_knight, job_knt, morocc_in, niflheim, que_god02 [taicomjp]
+- 12-26-04: <wp_db> Corrected size [taicomjp]
+- 12-26-04: <exp_guild_db> Corrected exp [taicomjp]
+- 12-26-04: <job_db1> Added baby classes [taicomjp]
+- 12-26-04: <job_db2> Added baby classes [taicomjp]
 - 12-25-04: <item_db> Corrected skill Cold Bolt lv 3 [taicomjp]
 - 12-25-04: <item_db> Added item 12000~12015 [taicomjp]
 - 12-25-04: <item_db> Added item 686~700 [taicomjp]
