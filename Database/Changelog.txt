@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 04-20-2004: <summon_mobID> "replacement" DB for replacement SummonMobList code in Core [ChrstphrR]
 - 04-20-2004: <item_db> Correction Name Anodyne > Anti_Painment [KrietoR]
 - 04-20-2004: <item_db> Correction Name Aloebera > Aloe Vera [KrietoR]
 - 04-16-2004: <item_db> Fixed/updated the Bug #130(updated healing items w/Juno stats)[KrietoR]
