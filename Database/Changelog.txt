@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 06-29-04: Fixed #1009 (Wizard can't equip Mage Hat) [Trihan]
 - 06-28-04: Gave Credit to Ancyker for example warp database.  [Darkhelmet]
 - 06-26-04: Added into mapinfo_db support for the new 3 maps (RWC) [KrietoR]
 - 06-25-04: Fixed Novice_Breastplate, only novice and supernovice can equip [KrietoR]
