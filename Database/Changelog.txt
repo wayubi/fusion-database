@@ -1,6 +1,13 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 06-25-04: Added 3 new kRO monsters [KrietoR]
+- 06-25-04: Corrected the Incantation Samurai MEXP [KrietoR]
+- 06-25-04: Corrected the Garm MEXP [KrietoR]
+- 06-25-04: Corrected the Stormy Knight MEXP [KrietoR]
+- 06-25-04: Corrected the Moonlight MEXP [KrietoR]
+- 06-25-04: Corrected the Maya MEXP [KrietoR]
+- 06-25-04: Corrected the Eddga MEXP [KrietoR]
 - 06-24-04: Fixed settings on many maps. (Mostly guild and job maps) [Trihan]
 - 06-24-04: Fixed bug 564 (Myst not dropping Gas Mask) [Trihan]
 - 06-23-04: Fixed bug 978 (Crusader can't equip elemental armour and Brionac doesn't give correct skills) [Trihan]
