@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-22-04: <skill_db> Corrected skill require item [taicomjp]
+- 11-22-04: <item_db> Corrected Repeating Crossbow and Ballista to two-handed bows [taicomjp]
 - 11-21-04: <make_arrow> Added 7053 [taicomjp]
 - 11-21-04: <mob_db> Added mob stats: (1017)Female Thief Bug,(1021)Male Thief Bug,(1027)Raptice [taicomjp]
 - 11-20-04: <pet_db> Updated ZHERLTHSH and ALICE FoodID [taicomjp]
