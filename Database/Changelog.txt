@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 03-29-2004: <skill_DB> Added new upper class skills.  Made a few corrections to existing ones. [Colus]
 - 03-28-2004: <mob_db2> Added Aegis's Database for monster skills [Darkhelmet]
 - 03-28-2004: <mob_db> Changed Treasure Box moving status, now it cannot move [KrietoR]
 - 03-26-2004: <skill_db> Fixed Cloaking, Added more 5 lvls, now u can go to lvl 10 [KrietoR]
