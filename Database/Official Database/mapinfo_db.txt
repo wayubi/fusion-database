@@ -62,6 +62,7 @@ force_2-3.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_3-1.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_3-2.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_3-3.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
+force_4-1.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_map1.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_map2.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_map3.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
