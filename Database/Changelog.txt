@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 06-25-04: Fixed the Jobs that can equip the Elemental armors [KrietoR]
+- 06-25-04: Removed a lot of non needed "" [KrietoR]
 - 06-25-04: Correct Dracula Drops and % of drops [KrietoR]
 - 06-25-04: Removed current exp on BABY_GARM set base and job exp to 0, until official monster status [KrietoR]
 - 06-25-04: Added 3 new kRO monsters [KrietoR]
