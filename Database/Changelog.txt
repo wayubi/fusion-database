@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-15-04: <skill_guild_db> Increase Guild Member skill of guilds will now give +6 bonus per level [taicomjp]
 - 11-15-04: <skill_guild_db> Added new guildskill [taicomjp]
 - 11-15-04: <item_db> Corrected Weight and Price of item 501~568 [taicomjp]
 - 11-15-04: <item_db> Added new item 565~568, 684, 685 , 7272~7302 [taicomjp]
