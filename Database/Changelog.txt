@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 04-14-2004: <mapinfo_db> Added nomemo function to guild castles and pvp maps [KrietoR]
 - 04-13-2004: <monster_AI> Name Correction ORK_HERO > ORC_HERO [KrietoR]
 - 04-13-2004: <mob_db> Name Correction ORK_WARRIOR > ORC_WARRIOR [KrietoR]
 - 04-13-2004: <mob_db> Name Correction ORK_HERO > ORC_HERO [KrietoR]
