@@ -2,8 +2,6 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
-- 03-25-2004: <territory_db> Added Correct guild castle names [KrietoR]
-- 03-25-2004: <exp_guild_db> Corrected exp guild points [KrietoR]
 - 03-24-2004: <item_db> Name Correction Billow > Hard_Hitting_Wave [KrietoR]
 - 03-24-2004: <item_db> Name Correction Omen_of_Tempest > Cat_Drop [KrietoR]
 - 03-24-2004: <item_db> Name Correction Ripple > Quiet_Wave [KrietoR]
