@@ -1,6 +1,10 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-17-04: <item_db> Added item 5099, Nun's Hat [taicomjp]
+- 11-17-04: <item_db> Added item 5098, Tiger Mask [taicomjp]
+- 11-17-04: <item_db> Added item 5097, Annual Commemoration Hat [taicomjp]
+- 11-17-04: <item_db> Added item 5096, Assassin's Mask [taicomjp]
 - 11-16-04: <item_db> Added item 1913, Electric_Guita [taicomjp]
 - 11-15-04: <skill_guild_db> Added new guildskill [taicomjp]
 - 11-15-04: <skill_guild_db> Increase Guild Member skill of guilds will give +6 bonus per level(not work) [taicomjp]
