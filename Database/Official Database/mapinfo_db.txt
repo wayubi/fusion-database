@@ -194,6 +194,10 @@ new_zone01.gat,memo,save,teleport,pvp,pvpg
 new_zone02.gat,memo,save,teleport,pvp,pvpg
 new_zone03.gat,memo,save,teleport,pvp,pvpg
 new_zone04.gat,memo,save,teleport,pvp,pvpg
+niflheim.gat,memo,save,teleport,pvp,pvpg
+nif_fild01.gat,memo,save,teleport,pvp,pvpg
+nif_fild02.gat,memo,save,teleport,pvp,pvpg
+nif_in.gat,memo,save,teleport,pvp,pvpg
 orcsdun01.gat,memo,save,teleport,pvp,pvpg
 orcsdun02.gat,memo,save,teleport,pvp,pvpg
 ordeal_a00.gat,memo,save,teleport,pvp,pvpg
