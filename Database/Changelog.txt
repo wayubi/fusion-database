@@ -2,6 +2,8 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 03-25-2004: <item_db> Only Wizards,Sages,HW,Professor can wear Robe of Casting [KrietoR]
+- 03-25-2004: <item_db> Name Correction Casting_Robe > Robe_of_Casting [KrietoR]
 - 03-24-2004: <skill_db> Added Item Apraisal Skill to SN Job [KrietoR]
 - 03-24-2004: <skill_db> Added Discount Skill to SN Job [KrietoR]
 - 03-24-2004: <skill_db> Added Overcharge Skill to SN Job [KrietoR]
