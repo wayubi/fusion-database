@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-14-2004: (item_db) Changed Jnames to be within "" in the first 25% of database also corrected names. [KyuubiKitsune]
 - 01-16-2004: (skill_DB) Updated Potion Pitcher (10-1 SP). [Colus]
 - 01-16-2004: (skill_DB) Updated Potion Pitcher (no cast time). [Colus]
 - 01-14-2004: (metalprocess_db) Star Crumb forging now looks like other metal types [Colus]
