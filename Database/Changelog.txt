@@ -1,3 +1,7 @@
+------------------------------------------------------------------------------------------
+Fusion Version 1.210 - February 28th, 2004
+-----------------------------------------------------------------------------------------
+
 - 03-13-2004:<item_db> Name Correction Gaea_Sword > Gaia_Sword. [~Necron~]
 - 03-13-2004:<item_db> Name Correction Assasin_Dagger > Assassin_Dagger. [~Necron~]
 - 03-13-2004:<item_db> Name Correction Walgwanggum > Moonlight_Sword. [~Necron~]
@@ -30,11 +34,6 @@
 - 03-13-2004:<item_db> Name Correction Megingjard > Magingiorde. [~Necron~]
 - 03-13-2004:<item_db> Name Correction Brisingamen > Brysingamen. [~Necron~]
 - 03-13-2004:<item_db> Job Correction Claymore. [~Necron~]
-
-------------------------------------------------------------------------------------------
-Fusion Version 1.210 - February 28th, 2004
------------------------------------------------------------------------------------------
-
 - 03-13-2004: <item_db> Fixed the Doppelganger_card added the correct bonus stats [KrietoR]
 - 03-13-2004: <item_db> Added 30% of poison resistance to Gas_Mask [KrietoR]
 - 03-13-2004: <item_db> Added 20% of poison resistance to Oxygen_Mask [KrietoR]
