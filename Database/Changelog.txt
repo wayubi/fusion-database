@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 07-01-04: Fixed Assassin Mask location while equiped [KrietoR]
 - 06-30-04: Committed clean versions of item and skill db for restructuring. [Trihan]
 - 06-29-04: Corrected the price of Arrow_of_Counter_Evil 500z > 50z [KrietoR]
 - 06-29-04: Corrected the price of pecopeco_food 1200z > 600z [KrietoR]
