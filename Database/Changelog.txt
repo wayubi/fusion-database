@@ -2,6 +2,8 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 02-12-2004: <skill_Db> updated Triple blow range [Oatmeal]
+- 02-12-2004: <skill_DB> updated Blade stop type [oatmeal]
 - 02-12-2004: <skill_DB> Updated Rogue's Tunnel Drive. [Colus]
 - 02-09-2004: <skill_Db> Added data for Spell breaker [Oatmeal]
 - 02-09-2004: <skill_DB> Fixed Requirements for Body Relocation. [KyuubiKitsune]
