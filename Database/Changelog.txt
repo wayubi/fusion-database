@@ -2,6 +2,7 @@
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
 
+- 01-29-2004: <skill_DB> Added elements to NPC elemental attacks. [Colus]
 - 01-29-2004: <item_db> Fixed and added Resistances for Garment/Shield Cards. [KyuubiKitsune]
 - 01-27-2004: <Skill_DB> Updated Graffiti's range to 1. [Colus]
 - 01-25-2004: <Mob_DB> Blood Butterfly Names. [AlexKreuz]
