@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 10-28-04: <mob_db> Renamed id#1399, EVENT_BAPHO > HOLLOW_PORING. [Kiotaru]
 - 10-28-04: <mob_db> Renamed id#1223, L_ORC,Orc > XMAS_ORC,"Santa Orc". [Kiotaru]
 - 10-20-04: Added ayo_dun01.gat to mapinfo_db.txt [taicomjp]
 - 10-20-04: Added ayo_dun02.gat to mapinfo_db.txt [taicomjp]
