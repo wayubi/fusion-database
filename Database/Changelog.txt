@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 06-29-04: Corrected the price of pecopeco_food 1200 > 600z [KrietoR]
 - 06-29-04: Corrected Drop of Angel_Ring on whisper [KrietoR]
 - 06-29-04: Removed Apple (0%) from the rest of monsters [KrietoR]
 - 06-29-04: Fixed #1009 (Wizard can't equip Mage Hat) [Trihan]
