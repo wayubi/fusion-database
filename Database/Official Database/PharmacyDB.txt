@@ -1,7 +1,0 @@
-ID,BookNeededID,Material1ID,Material2ID,Material3ID,Material4ID,Material5ID,Material1Amount,Material2Amount,Material3Amount,Material4Amount,Material5Amount
-501,7144,507,713,0,0,0,1,1,0,0,0
-502,7144,508,713,0,0,0,1,1,0,0,0
-503,7144,509,713,0,0,0,1,1,0,0,0
-545,7133,501,713,0,0,0,1,1,0,0,0
-546,7133,502,713,0,0,0,1,1,0,0,0
-547,7133,503,713,0,0,0,1,1,0,0,0
