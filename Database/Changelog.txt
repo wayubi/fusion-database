@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 04-01-2004: <mob_db> Added Correct Status for 18 monsters of Nifleheim maps, and Amatsu [KrietoR]
 - 03-30-2004: <mapinfo_db> Added the newest maps Louyang, filds and dungeons [KrietoR & Muad_Dib]
 - 03-29-2004: <skill_db> Added new upper class skills.  Made a few corrections to existing ones. [Colus]
 - 03-28-2004: <mob_db2> Added Aegis's Database for monster skills [Darkhelmet]
