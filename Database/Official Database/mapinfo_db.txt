@@ -1,6 +1,6 @@
 MapName,Memo,Save,Teleport,Pvp,PvpNightmare,GuildPvp,DeadBranches
-alb_ship.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 alb2trea.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+alb_ship.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 alberta.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 alberta_in.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 alde_alche.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
@@ -53,9 +53,6 @@ cmd_fild09.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,branch
 cmd_in01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 cmd_in02.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 comodo.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
-force_map1.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
-force_map2.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
-force_map3.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_1-1.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_1-2.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_1-3.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
@@ -65,6 +62,9 @@ force_2-3.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_3-1.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_3-2.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 force_3-3.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
+force_map1.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
+force_map2.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
+force_map3.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 gef_dun00.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 gef_dun01.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 gef_dun02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
@@ -157,8 +157,8 @@ job_cru.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 job_duncer.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 job_hunte.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 job_hunter.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
-job_knight.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
-job_knt.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
+job_knight.gat,nomemo,nosave,noteleport,nopvp,nopvpn,nopvpg,nobranch
+job_knt.gat,nomemo,nosave,noteleport,nopvp,nopvpn,nopvpg,nobranch
 job_monk.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 job_priest.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 job_prist.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
@@ -170,13 +170,13 @@ job_wizard.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 knight_1-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 knight_2-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 knight_3-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
-louyang.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
-lou_fild01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
-lou_in01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
-lou_in02.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 lou_dun01.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 lou_dun02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 lou_dun03.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+lou_fild01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
+lou_in01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
+lou_in02.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
+louyang.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 mag_dun01.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 mag_dun02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 mjo_dun01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
@@ -226,7 +226,7 @@ moc_ruins.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,branch
 monk_in.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 monk_test.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 morocc.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
-morocc_in.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
+morocc_in.gat,memo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 n_castle.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 new_1-1.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 new_1-2.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
@@ -239,7 +239,7 @@ new_2-4.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 new_3-1.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 new_3-2.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 new_3-3.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
-new_4-4.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
+new_3-4.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 new_4-1.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 new_4-2.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 new_4-3.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
@@ -259,7 +259,7 @@ nguild_prt.gat,nomemo,nosave,noteleport,nopvp,nopvpn,pvpg,nobranch
 nif_fild01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 nif_fild02.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 nif_in.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
-niflheim.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
+niflheim.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 orcsdun01.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 orcsdun02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 ordeal_1-1.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
@@ -307,8 +307,8 @@ priest_1-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 priest_2-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 priest_3-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 prontera.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
-prt_are_in.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 prt_are01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
+prt_are_in.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 prt_castle.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 prt_church.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 prt_fild00.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
@@ -339,10 +339,7 @@ prtg_cas03.gat,nomemo,nosave,noteleport,nopvp,nopvpn,pvpg,nobranch
 prtg_cas04.gat,nomemo,nosave,noteleport,nopvp,nopvpn,pvpg,nobranch
 prtg_cas05.gat,nomemo,nosave,noteleport,nopvp,nopvpn,pvpg,nobranch
 pvp_2vs2.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
-pvp_room.gat,nomemo,nosave,noteleport,nopvp,nopvpn,nopvpg,nobranch
 pvp_c_room.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
-pvp_n_room.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
-pvp_y_room.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 pvp_n_1-1.gat,nomemo,nosave,noteleport,pvp,pvpn,nopvpg,nobranch
 pvp_n_1-2.gat,nomemo,nosave,noteleport,pvp,pvpn,nopvpg,nobranch
 pvp_n_1-3.gat,nomemo,nosave,noteleport,pvp,pvpn,nopvpg,nobranch
@@ -383,6 +380,8 @@ pvp_n_8-2.gat,nomemo,nosave,noteleport,pvp,pvpn,nopvpg,nobranch
 pvp_n_8-3.gat,nomemo,nosave,noteleport,pvp,pvpn,nopvpg,nobranch
 pvp_n_8-4.gat,nomemo,nosave,noteleport,pvp,pvpn,nopvpg,nobranch
 pvp_n_8-5.gat,nomemo,nosave,noteleport,pvp,pvpn,nopvpg,nobranch
+pvp_n_room.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
+pvp_room.gat,nomemo,nosave,noteleport,nopvp,nopvpn,nopvpg,nobranch
 pvp_y_1-1.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
 pvp_y_1-2.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
 pvp_y_1-3.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
@@ -423,8 +422,9 @@ pvp_y_8-2.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
 pvp_y_8-3.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
 pvp_y_8-4.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
 pvp_y_8-5.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
+pvp_y_room.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 que_god01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
-que_god02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+que_god02.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 quiz_00.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 quiz_01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 quiz_test.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
