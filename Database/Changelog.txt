@@ -2,6 +2,8 @@
 Fusion Version 1.211
 ------------------------------------------------------------------------------------------
 
+- 05-25-2004: <item_DB> Added new headgears (not guaranteed correct, I don't read Korean). [Colus]
+- 05-25-2004: <item_DB> Corrected a few incorrect item names. [Colus]
 - 05-23-2004: <mapinfo_db> set a lot of new changes in all maps, correcting some mistakes of the past [KrietoR]
 - 05-21-2004: <mob_db> Name Correction PORING__ > FIRE_PORING [KrietoR]
 - 05-21-2004: <warp_db> Some New changes made by ChrstphrR [ChrstphrR via KrietoR]
