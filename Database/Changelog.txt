@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
-
+- 03-17-2004: <skill_DB> Updated Detect. [Colus]
 - 03-17-2004: <item_db> Name Correction Sage_Worm_Card > SageWorm_Card
 - 03-17-2004: <item_db> Fixed Sage_Worm_Card, Added Enable to use Safety Wall lvl1 [KrietoR]
 - 03-17-2004: <item_db> Fixed Alice_Card, Added Enable to use Item Apraisal lvl1 [KrietoR]
