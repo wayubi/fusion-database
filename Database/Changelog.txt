@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
+- 03-05-2004: <jobdb 1 and 2> updated job dbs to support ubber classes. [Oatmeal]
 - 03-03-2004: <Mob_DB> Added Quotations to Elder Wilow. [AlexKreuz]
 - 03-03-2004: <mob_db> Bug #185 Fixed Aggro and Assist options of Mobs [Eliot]
 - 03-01-2004: <item_db> Bug #573 Fixed egg numbers [Eliot]
