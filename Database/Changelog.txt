@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-17-2004: (mob_db) Added a few new cards to mob drops. [KyuubiKitsune]
 - 01-17-2004: (mob_db) Fixed some monsters [Eliot]
 - 01-17-2004: (mob_db) Corrected some Bosse's HP amounts. [KyuubiKitsune]
 - 01-17-2004: (skill_DB) Updated Monk's Call Spirits (1 per cast). [Colus]
