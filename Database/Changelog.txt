@@ -2,11 +2,12 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-06-2004: <skill_DB> RE-corrected upper class JIDs, updated some modes/levels. [Colus]
 - 03-06-2004: <skill_db> Corrected Upper Class JIDs. [Eliot]
 - 03-06-2004: <skill_db> Cleaned up the database a bit. [Eliot]
 - 03-06-2004: <skill_db> Added support and req's for all Upper Classes. [Eliot]
 - 03-06-2004: <skill_db> Added Paladin, Champion and Professor skill reqs. [Eliot]
-- 03-06-2004: <skill_db> Added Requiements for LK,HW and HP skills. [Eliot]
+- 03-06-2004: <skill_db> Added Requirements for LK,HW and HP skills. [Eliot]
 - 03-06-2004: <skill_db> Added Job ID numbers for Upper Classes. [Eliot]
 - 03-05-2004: <item_db> Fixed slots on Sword Mace. [Eliot]
 - 03-05-2004: <jobdb 1 and 2> updated job dbs to support ubber classes. [Oatmeal]
