@@ -1,6 +1,10 @@
 --------------------------------------------------------------------------------
  Fusion 1.214 - 
 --------------------------------------------------------------------------------
+- 02-04-05: mob based on jAthena [taicomjp]
+- 02-04-05: Corrected item Durian [taicomjp]
+- 02-04-05: Corrected item type Hard Peach 0 > 3 [taicomjp]
+- 02-04-05: Corrected item Price [taicomjp]
 - 02-03-05: Clean item sell to 0 [taicomjp]
 - 02-03-05: Corrected item weight 1243, 2352, 2414, 5055 [taicomjp]
 - 02-03-05: Added item 5100, Sale_Sign [taicomjp]
