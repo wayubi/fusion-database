@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-12-2004: Changed Sacrifice to Devotion, fixed type and range [Eliot]
 - 03-12-2004: Fixed bug #567, added 3 MDEF to Ninja Suit. [Colus]
 - 03-12-2004: Fixed bug #604, quotes on wax-making book. [Colus]
 - 03-11-2004: <skill_DB> Updated range of ME. [Colus]
