@@ -1302,7 +1302,7 @@ ID,Name,JName,Type,Price,Sell,Weight,ATK,MATK,DEF,MDEF,Range,Slot,STR,AGI,VIT,IN
 7129,HCLBottle_Making_Book,"Acid Creation Manual",3,100000,50000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 7130,PlantBottle_Making_Book,"Plant-Bottle Creation Manual",3,100000,50000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 7131,MineBottle_Making_Book,MineBottle_Making_Book,3,100000,50000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-7132,CoatingDrug_Making_Book,"Coating Wax Creation Manual,3,100000,50000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7132,CoatingDrug_Making_Book,"Coating Wax Creation Manual",3,100000,50000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 7133,SlimPotion_Making_Book,"Slim Potion Creation Manual",3,240000,120000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 7134,Drug_Cup,"Medicine Bowl",3,8,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 7135,Fire_Bottle,"Fire-Bottle",3,200,100,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

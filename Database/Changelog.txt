@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-12-2004: Fixed bug #604, quotes on wax-making book. [Colus]
 - 03-11-2004: <skill_DB> Updated range of ME. [Colus]
 - 03-06-2004: <item_DB>  bug#595 : Fixed 2carat and 3carat diamonds [Eliot & Colus]
 - 03-06-2004: <skill_DB> corrected data in the lord knight skills. [Oatmeal]
