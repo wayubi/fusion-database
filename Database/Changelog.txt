@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 06-21-04: Fixed bug 972 (Nurse Cap giving +1 luk instead of +1 int) [Trihan]
 - 06-16-04: Updated Skill_Db entry for Free Cast [Darkhelmet]
 - 06-16-04: Fixed bug 564 (Myst not dropping Gas Mask) [Trihan]
 - 06-16-04: Fixed bug 678 (Lord of Death not summoning mobs, Rogue skills, equipment issues) [Trihan]
