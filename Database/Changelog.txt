@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-06-2004: <skill_db> Corrected Upper Class JIDs. [Eliot]
 - 03-06-2004: <skill_db> Cleaned up the database a bit. [Eliot]
 - 03-06-2004: <skill_db> Added support and req's for all Upper Classes. [Eliot]
 - 03-06-2004: <skill_db> Added Paladin, Champion and Professor skill reqs. [Eliot]
