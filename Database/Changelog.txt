@@ -2,7 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
-- 03-14-2004: <item_db> Due to Eliots rollback, ive to redo all the fixes that ive done [KrietoR]
+- 03-13-2004: <item_db> Fixed Magnolia_Card, 500% chance to "Curse" > 5% chance to "Curse" [KrietoR]
 - 03-13-2004: <item_db> Rolledback to 1.31, Necron made a mess [Eliot]
 - 03-13-2004: <item_db> Rolled back Necron's changes due to numerous errors, PLEASE be carefull [Eliot]
 - 03-13-2004: <skill_DB> Various corrections to upper-skill data. [Colus]
@@ -45,7 +45,6 @@ Fusion Version 1.210 - February 28th, 2004
 - 03-13-2004: <item_db> Name Correction Megingjard > Magingiorde. [~Necron~]
 - 03-13-2004: <item_db> Name Correction Brisingamen > Brysingamen. [~Necron~]
 - 03-13-2004: <item_db> Job Correction Claymore. [~Necron~]
-- 03-13-2004: <item_db> Fixed the Doppelganger_card added the correct bonus stats [KrietoR]
 - 03-13-2004: <item_db> Added 30% of poison resistance to Gas_Mask [KrietoR]
 - 03-13-2004: <item_db> Added 20% of poison resistance to Oxygen_Mask [KrietoR]
 - 03-12-2004: Changed Sacrifice to Devotion, fixed type and range [Eliot]
