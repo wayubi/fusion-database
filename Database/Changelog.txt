@@ -1,6 +1,19 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-23-04: <Monster_AI> Added DIABOLIC 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added BLAZZER 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added G_ASSULTER 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added SOLDIER_PIERE 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added ANT_EGG 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added ANDRE 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added PORING_ 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added THIEF_BUG_EGG 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added PECOPECO_EGG 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added STEEL_CHONCHON 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added GOLEM 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added PUPA 'mob_skill [taicomjp]
+- 11-23-04: <Monster_AI> Added mob 1389~1582 'mob_skill [taicomjp]
 - 11-22-04: <skill_db> Corrected skill require item [taicomjp]
 - 11-22-04: <item_db> Corrected Repeating Crossbow and Ballista to two-handed bows [taicomjp]
 - 11-21-04: <make_arrow> Added 7053 [taicomjp]
