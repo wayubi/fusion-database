@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 06-16-04: Fixed bug 460 (Blacksmith can't equip War Axe/Mjolnir), continued fixing mob db. [Trihan]
 - 06-15-04: Temp fix for bug 942 (Zombie card not working) made it add 20% to max HP. [Trihan]
 - 06-15-04: Corrected Hammer Fall's cast time. (bug 931) [Trihan]
 - 06-15-04: Corrected Moonlight's stats (bug 947). [Trihan]
