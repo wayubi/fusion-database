@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 07-23-04: Removed gm_access.txt and id_table.txt from the CVS. [Trihan]
 - 07-15-04: Corrected many Monster names [KrietoR]
 - 07-12-04: Fixed MVP's: HP, LV, ATK1, ATK2, EXP, and JEXP Stats. [KyuubiKitsune]
 - 07-06-04: Fixed Assassin Mask View [KrietoR]
