@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-06-2004: <item_DB>  bug#595 : Fixed 2carat and 3carat diamonds [Eliot & Colus]
 - 03-06-2004: <skill_DB> corrected data in the lord knight skills. [Oatmeal]
 - 03-06-2004: <skill_DB> added data and corrected some data in ubber skills. [Oatmeal]
 - 03-06-2004: <skill_DB> RE-corrected upper class JIDs, updated some modes/levels. [Colus]
