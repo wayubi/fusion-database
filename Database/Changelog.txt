@@ -2,7 +2,8 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
-- 02-24-2004: <mob_db> Bug #546 : Fixed Sasquatch drop list [Eliot]
+- 02-24-2004: <item_db> Bug #530 : Fixed Berserk Potion Level Req. [Eliot]
+- 02-24-2004: <mob_db> Bug #546 : Fixed Sasquatch drop list. [Eliot]
 - 02-22-2004: <pet_db> Added SkillTime Field. [Darkhelmet]
 - 02-21-2004: <mapinfo_db> corrected yggdrasil map to .gat .[Eliot]
 - 02-21-2004: <skill_Db> corrected Sword Mastery data .[Eliot]
