@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 10-14-04: Added item 557, Cut_Rice_Rolls. [taicomjp]
+- 10-14-04: Added item 556, Rolled_Rice. [taicomjp]
 - 10-13-04: Fixed Heart_of_Honour format. [taicomjp]
 - 10-13-04: Name Correction Murasama > Muramasa. [taicomjp]
 - 10-13-04: Fixed Guard, +3 def. [taicomjp]
