@@ -2,6 +2,9 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 04-05-2004: <mob_db> Name Correction Garm > 2nd name Hatii [KrietoR]
+- 04-05-2004: <mob_db> Name Correction Horing > Horong [KrietoR]
+- 04-05-2004: <mob_db> Name Correction ELDER_WILOW > ELDER_WILLOW [KrietoR]
 - 04-04-2004: <summon_slave> Added Mob Abyss_Knight to MVP LORD_OF_DEATH [KrietoR]
 - 04-04-2004: <item_db> Name Correction muramasa > murasama [KrietoR]
 - 04-04-2004: <mob_db> Added correct status for guild dungeon mobs [KrietoR]
