@@ -1,6 +1,11 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
+
+- 03-17-2004: <item_db> Fixed Novice_Eggshell, showing Bogun hat > Showing egg_shell, Added 4 def [KrietoR]
+- 03-17-2004: <item_db> Name Correction Eggshell_For_Novice > Novice_Eggshell
+- 03-17-2004: <item_db> Name Correction Cutlas > Cutlus [KrietoR]
+- 03-17-2004: <item_db> Name Correction Tooth_of_ > Tooth_of_Unknown [KrietoR]
 - 03-17-2004: <skill_DB> Updated Detect. [Colus]
 - 03-17-2004: <item_db> Name Correction Sage_Worm_Card > SageWorm_Card [KrietoR]
 - 03-17-2004: <item_db> Fixed Sage_Worm_Card, Added Enable to use Safety Wall lvl1 [KrietoR]
