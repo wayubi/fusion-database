@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 08-18-04: Fixed #49: Garm was dropping normal fang instead of Fang of Hatii. [Trihan]
 - 08-18-04: Fixed the prices of item 682/683 [KrietoR]
 - 08-18-04: Added custom rate drops (1%) of the "DBF" items into the new monsters [KrietoR]
 - 08-18-04: Added 4 new items of the Dragon Boat Festival [KrietoR]
