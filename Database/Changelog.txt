@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 09-01-04: Added payon_in03.gat to mapinfo_db.txt [KrietoR]
 - 08-26-04: Changed the type of the items 682/683 [KrietoR]
 - 08-26-04: Added PvpNightmare and DeadBranches to mapinfo_db.txt [KrietoR]
 - 08-18-04: Fixed #49: Garm was dropping normal fang instead of Fang of Hatii. [Trihan]

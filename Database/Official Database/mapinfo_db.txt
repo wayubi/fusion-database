@@ -279,6 +279,7 @@ payg_cas05.gat,nomemo,nosave,noteleport,nopvp,nopvpn,pvpg,nobranch
 payon.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,nobranch
 payon_in01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 payon_in02.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
+payon_in03.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 priest_1-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 priest_2-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 priest_3-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
