@@ -140,6 +140,13 @@ job_sword1.gat,memo,save,teleport,pvp,nopvpg
 job_thief1.gat,memo,save,teleport,pvp,nopvpg
 job_wiz.gat,nomemo,nosave,noteleport,nopvp,nopvpg
 job_wizard.gat,memo,save,teleport,pvp,nopvpg
+louyang.gat,memo,save,teleport,pvp,nopvpg
+lou_fild01.gat,memo,save,teleport,pvp,nopvpg
+lou_in01.gat,memo,save,teleport,pvp,nopvpg
+lou_in02.gat,memo,save,teleport,pvp,nopvpg
+lou_dun01.gat,memo,save,teleport,pvp,nopvpg
+lou_dun02.gat,memo,save,teleport,pvp,nopvpg
+lou_dun03.gat,memo,save,teleport,pvp,nopvpg
 mag_dun01.gat,memo,save,teleport,pvp,nopvpg
 mag_dun02.gat,memo,save,teleport,pvp,nopvpg
 mjo_dun01.gat,memo,save,teleport,pvp,nopvpg
@@ -267,6 +274,7 @@ quiz_01.gat,memo,save,teleport,pvp,nopvpg
 sec_in01.gat,memo,save,teleport,pvp,nopvpg
 sec_in02.gat,memo,save,teleport,pvp,nopvpg
 sec_pri.gat,memo,save,teleport,pvp,nopvpg
+siege_test.gat,memo,save,teleport,pvp,nopvpg
 treasure01.gat,memo,save,teleport,pvp,nopvpg
 treasure02.gat,memo,save,teleport,pvp,nopvpg
 tur_dun01.gat,memo,save,teleport,pvp,nopvpg
