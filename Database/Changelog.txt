@@ -1,6 +1,11 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 01-18-05: <item_db>  Added item 7303, Rice_Straw_Bag [taicomjp]
+- 01-18-05: <item_db>  Added item 573, Chocolate_Drink [taicomjp]
+- 01-18-05: <item_db>  Added item 572, Good_Fortune_Cookie [taicomjp]
+- 01-18-05: <item_db>  Added item 571, Large_Good_Fortune_Candy [taicomjp]
+- 01-18-05: <item_db>  Added item 570, Good_Fortune_Candy [taicomjp]
 - 01-11-05: <mapinfo_db> in_moc_16 is now saveable for the assassin quest. [Tsusai]
 - 12-30-04: <skill_db> Corrected SN_SHARPSHOOTING, ASC_BREAKER, ASC_METEORASSAULT, PF_MINDBREAKER [taicomjp]
 - 12-28-04: <mapinfo_db> Added yuno_fild05, yuno_fild07, yuno_fild08, yuno_fild09, yuno_fild11, yuno_fild12 [taicomjp]
