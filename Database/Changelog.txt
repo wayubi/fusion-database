@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-20-04: <pet_db> Updated ZHERLTHSH and ALICE FoodID [taicomjp]
 - 11-20-04: <mob_db> Updated mob 1492~1520 [taicomjp]
 - 11-20-04: <item_db> Corrected item Safety_Ring def +3 [taicomjp]
 - 11-19-04: <skil_db> Added skill 411 to 472 [taicomjp]
