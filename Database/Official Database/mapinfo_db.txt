@@ -216,11 +216,11 @@ pay_fild09.gat,memo,save,teleport,pvp,pvpg
 pay_fild10.gat,memo,save,teleport,pvp,pvpg
 pay_fild11.gat,memo,save,teleport,pvp,pvpg
 pay_gld.gat,memo,save,teleport,pvp,pvpg
-payg_cas01.gat,memo,save,teleport,pvp,pvpg
-payg_cas02.gat,memo,save,teleport,pvp,pvpg
-payg_cas03.gat,memo,save,teleport,pvp,pvpg
-payg_cas04.gat,memo,save,teleport,pvp,pvpg
-payg_cas05.gat,memo,save,teleport,pvp,pvpg
+payg_cas01.gat,memo,save,teleport,pvp,pvpg,agit
+payg_cas02.gat,memo,save,teleport,pvp,pvpg,agit
+payg_cas03.gat,memo,save,teleport,pvp,pvpg,agit
+payg_cas04.gat,memo,save,teleport,pvp,pvpg,agit
+payg_cas05.gat,memo,save,teleport,pvp,pvpg,agit
 payon.gat,memo,save,teleport,pvp,pvpg
 payon_in01.gat,memo,save,teleport,pvp,pvpg
 payon_in02.gat,memo,save,teleport,pvp,pvpg

@@ -1,6 +1,8 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-12-2004: (skill_DB) Activated Graffiti (15 SP).  [Colus]
+- 01-12-2004: (mapinfo_DB) Added agit flag to maps that have emperium.  [Colus]
 - 01-12-2004: (Skill_DB) Fixed requirement for Crusader -> Grand Cross. [AlexKreuz]
 - 01-12-2004: (skill_db) Removed all misplaced skills like Riding when #skillall [KyuubiKitsune]
 - 01-12-2004: (skill_db) Removed Skill from Alchemist -> Sword Mastery. [KyuubiKitsune]
