@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-13-2004: <skill_DB> Various corrections to upper-skill data. [Colus]
 - 03-14-2004: <item_db> Fixed Magnolia_Card, 500% chance to "Curse" > 5% chance to "Curse"
 - 03-14-2004: <item_db> Name Correction Center_Potion >  Concentration_Potion. [~Necron~]
 - 03-14-2004: <item_db> Job Correction All Dagger Class (Now Bard and Dancer can equip). [~Necron~]
