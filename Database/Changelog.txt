@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-18-04: <mob_db> Added mobid 1400~1406 drops [taicomjp]
+- 11-18-04: <mob_db> Corrected some mob lose patameter [taicomjp]
 - 11-17-04: <item_db> Added item 5099, Nun's Hat [taicomjp]
 - 11-17-04: <item_db> Added item 5098, Tiger Mask [taicomjp]
 - 11-17-04: <item_db> Added item 5097, Annual Commemoration Hat [taicomjp]
