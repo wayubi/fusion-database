@@ -2,6 +2,8 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 04-20-2004: <item_db> Correction Name Anodyne > Anti_Painment [KrietoR]
+- 04-20-2004: <item_db> Correction Name Aloebera > Aloe Vera [KrietoR]
 - 04-16-2004: <item_db> Fixed/updated the Bug #130(updated healing items w/Juno stats)[KrietoR]
 - 04-15-2004: <skill_DB> Updated Water Ball, Demonstration, Soul Change, Soul Burn data. [Colus]
 - 04-14-2004: <mapinfo_db> Added nomemo function to guild castles and pvp maps [KrietoR]
