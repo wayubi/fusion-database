@@ -1,3 +1,8 @@
+- 05-19-2004: <item_db> Corrected Emerald price. (5000 -> 6000) [Muad_Dib]
+- 05-19-2004: <item_db> Corrected Ruby price. (5000 -> 6000) [Muad_Dib]
+- 05-19-2004: <item_db> Corrected Sapphire price. (5000 -> 6000) [Muad_Dib]
+- 05-19-2004: <item_db> Corrected Topaz price. (5000 -> 6000) [Muad_Dib]
+- 05-19-2004: <item_db> Corrected Zircon price. (5000 -> 6000) [Muad_Dib]
 - 05-14-2004: <item_db> Added item 558, and 559 [KrietoR]
 - 05-06-2004: <skill_db> Updated LoV Data1. [Colus]
 
