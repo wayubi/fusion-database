@@ -1,6 +1,14 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 10-20-04: Added ayo_dun01.gat to mapinfo_db.txt [taicomjp]
+- 10-20-04: Added ayo_dun02.gat to mapinfo_db.txt [taicomjp]
+- 10-20-04: Added ayo_fild01.gat to mapinfo_db.txt [taicomjp]
+- 10-20-04: Added ayo_fild02.gat to mapinfo_db.txt [taicomjp]
+- 10-20-04: Added ayo_in01.gat to mapinfo_db.txt [taicomjp]
+- 10-20-04: Added ayo_in02.gat to mapinfo_db.txt [taicomjp]
+- 10-20-04: Added ayothaya.gat to mapinfo_db.txt [taicomjp]
+- 10-20-04: Added missing new_x-x.gat to mapinfo_db.txt [taicomjp]
 - 10-15-04: Added missing monsters to mob_db.txt. [Trihan]
 - 10-15-04: Replaced version 1.42 of mob_db.txt with version 1.41 for cleanup. [Trihan]
 - 10-15-04: Revamped mob_db 100% based on jAthena [Muad_Did, KrietoR]
