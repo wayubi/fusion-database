@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
-- 10-14-04: Added mob_db.xt missing parameters. [Kiotaru]
+- 10-14-04: Added mob_db.txt missing parameters. [Kiotaru]
 - 10-14-04: Corrected the Weight of Steel, 40 > 10. [taicomjp]
 - 10-14-04: Added item 557, Cut_Rice_Rolls. [taicomjp]
 - 10-14-04: Added item 556, Rolled_Rice. [taicomjp]
