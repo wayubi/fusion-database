@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
+- 03-24-2004: <item_db> Fixed some missing "" [KrietoR]
 - 03-20-2004: <job_db2> Updated job bonuses for 2-2 classes, uppers, wedding, SN. [Colus]
 - 03-19-2004: <item_db> Fixed Awakening_Potion, now u need lvl 40 to use it [KrietoR]
 - 03-17-2004: <item_db> Fixed Novice_Eggshell, showing Bogun hat > Showing egg_shell, Added 4 def [KrietoR]
@@ -70,7 +71,6 @@ Fusion Version 1.210 - February 28th, 2004
 - 03-14-2004: <item_db> Name Correction Manteau_of_Survival > Manteau_of_Life. [~Necron~]
 - 03-14-2004: <item_db> Name Correction Hood_For_novice > Novice_Hood. [~Necron~]
 - 03-14-2004: <item_db> Name Correction Mitten_of_Presbyter > Celebrant's_Mitten. [~Necron~]
-- 03-14-2004: <item_db> Name Correction Megingjard > Magingiorde. [~Necron~]
 - 03-14-2004: <item_db> Name Correction Brisingamen > Brysingamen. [~Necron~]
 - 03-14-2004: <item_db> Name Correction Center_Potion > Concentration_Potion. [~Necron~]
 - 03-13-2004: <mob_db>  Name Correction Wilow > Willow [KrietoR]
