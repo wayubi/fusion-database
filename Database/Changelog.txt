@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
-
+- 03-14-2004: <item_DB> Fixed Katar of the Cold Icicle--test your work. [Colus]
 - 03-14-2004: <item_db> Fix My Mistake [~Necron~]
 - 03-14-2004: <item_db> Name Correction Gaea_Sword > Gaia_Sword. [~Necron~]
 - 03-14-2004: <item_db> Name Correction Assasin_Dagger > Assassin_Dagger. [~Necron~]
