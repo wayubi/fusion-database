@@ -1,6 +1,19 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.211
 ------------------------------------------------------------------------------------------
+- 06-04-2004: Added item 7193, Sprout. [Trihan]
+- 06-04-2004: Added item 7192, Pinwheel. [Trihan]
+- 06-04-2004: Added item 7191, Lantern. [Trihan]
+- 06-04-2004: Added item 7190, Hard_Bark. [Trihan]
+- 06-04-2004: Added item 7189, Heart_of_the_Woods. [Trihan]
+- 06-04-2004: Added item 7188, Brown_Root. [Trihan]
+- 06-04-2004: Renamed Kings_Certificate -> King's_Seal. [Trihan]
+- 06-04-2004: Renamed Wrapper -> Wrapping Paper. [Trihan]
+- 06-04-2004: Renamed Wrapping_Thread -> Wrapping_Ribbon. [Trihan]
+- 06-04-2004: Renamed Bon_Buster_Bag -> Bun_Buster_Bag. [Trihan]
+- 06-04-2004: Renamed Nail -> Leopard_Claw. [Trihan]
+- 06-04-2004: Renamed Sponge -> Leopard_Skin. [Trihan]
+- 06-04-2004: Renamed Wings_of_Butterfly -> Large_Butterfly_Wing. [Trihan]
 - 06-03-2004: Renamed Ladies_Gown -> Sheer_Angelic_Robe. [Trihan]
 - 06-03-2004: Renamed Hard_Peach -> Overripe_Peach. [Trihan]
 - 06-03-2004: Renamed Hard_Fellers -> Hard_Antennae. [Trihan]
