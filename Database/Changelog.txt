@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 07-03-04: Some final cleanup. [AlexKreuz]
 - 07-03-04: Added a shitload of maps. Need to be kept updated. [AlexKreuz]
 - 07-03-04: Removed RWC maps. These are not part of client. [AlexKreuz]
 - 07-01-04: Made Weird_Moustache equippable by all males. [Trihan]
