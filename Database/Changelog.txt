@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-12-2004: (mob_db) added initial entries for 94 mobs (nums:1409-1502), all works but has Poring stats for now. I'll update when i find more stats. [Eliot]
 - 01-11-2004: (skill_db) removed skill Body Relocation from Acolyte [Eliot]
 - 01-11-2004: (skill_db) removed skill Skid Trap from Rogue. [KyuubiKitsune]
 - 01-11-2004: (skill_db) removed skill Ankle Snare from Rogue. [KyuubiKitsune]
