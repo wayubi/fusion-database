@@ -2,6 +2,7 @@
 Fusion Version 1.211
 ------------------------------------------------------------------------------------------
 
+- 05-21-2004: <mob_db> Name COrrection PORING__ > FIRE_PORING [KrietoR]
 - 05-21-2004: <warp_db> Some New changes made by ChrstphrR [ChrstphrR via KrietoR]
 - 05-21-2004: <mob_db> Added 6 new kRO monsters [KrietoR]
 - 05-19-2004: <item_db> Corrected Emerald price. (5000 -> 6000) [Muad_Dib]
