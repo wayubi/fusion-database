@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-22-2004: (Skill_DB) Updated Lord of Vermillion Data. [AlexKreuz]
 - 01-19-2004: (pet/item_DB) Changed Drops egg back to proper name. [Colus]
 - 01-18-2004: (metalprocess_db) Added pharmacy data to this DB. [Colus]
 - 01-17-2004: (mob_db) Added a few new cards to mob drops. [KyuubiKitsune]
