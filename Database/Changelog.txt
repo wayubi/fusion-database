@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.212 - June 30th, 2004
 --------------------------------------------------------------------------------
+- 06-15-04: Corrected Moonlight's stats (bug 947). [Trihan]
 - 06-07-04: Started to matched stats/drops to that of jAthena and remove remaining apples. [Trihan]
 - 06-06-04: Corrected Baphomet's stats and drops. [Trihan]
 - 06-06-04: Corrected Osiris' stats and drops. [Trihan]
