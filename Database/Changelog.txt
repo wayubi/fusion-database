@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 04-11-2004: <New AI DB> Fixed if conditions [Darkhelmet]
 - 04-11-2004: Added new AI database [Darkhelmet]
 - 04-11-2004: <warp_db> Added an example warp database [Darkhelmet]
 - 04-08-2004: <mapinfo_db> Added nomemo nosave, in valkyrie map [KrietoR]
