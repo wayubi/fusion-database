@@ -1,6 +1,9 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-19-04: <skil_db> Added skill 411 to 472 [taicomjp]
+- 11-19-04: <skil_db> Moved skill from 408 to 378 [taicomjp]
+- 11-19-04: <skil_db> Removed skill 378, ASC_ENCHANTPOISON. Not in client [taicomjp]
 - 11-19-04: <item_db> Corrected item Peeble Ring all statu +5 [taicomjp]
 - 11-19-04: <item_db> Corrected all job [taicomjp]
 - 11-19-04: <item_db> Added item 2640, Kafra's_Ring [taicomjp]
