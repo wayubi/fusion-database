@@ -1,6 +1,11 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
+
+- 03-24-2004: <item_db> Name Correction Billow > Hard_Hitting_Wave [KrietoR]
+- 03-24-2004: <item_db> Name Correction Omen_of_Tempest > Cat_Drop [KrietoR]
+- 03-24-2004: <item_db> Name Correction Ripple > Quiet_Wave [KrietoR]
+- 03-24-2004: <item_db> Name Correction Sputum_of_Bird > Saliva_of_Bird [KrietoR]
 - 03-24-2004: <item_db> Fixed some missing "" [KrietoR]
 - 03-20-2004: <job_db2> Updated job bonuses for 2-2 classes, uppers, wedding, SN. [Colus]
 - 03-19-2004: <item_db> Fixed Awakening_Potion, now u need lvl 40 to use it [KrietoR]
