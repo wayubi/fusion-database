@@ -1,20 +1,20 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.211
 ------------------------------------------------------------------------------------------
-
-- 05-25-2004: <item_DB> Added new headgears (not guaranteed correct, I don't read Korean). [Colus]
-- 05-25-2004: <item_DB> Corrected a few incorrect item names. [Colus]
-- 05-23-2004: <mapinfo_db> set a lot of new changes in all maps, correcting some mistakes of the past [KrietoR]
-- 05-21-2004: <mob_db> Name Correction PORING__ > FIRE_PORING [KrietoR]
-- 05-21-2004: <warp_db> Some New changes made by ChrstphrR [ChrstphrR via KrietoR]
-- 05-21-2004: <mob_db> Added 6 new kRO monsters [KrietoR]
-- 05-19-2004: <item_db> Corrected Emerald price. (5000 -> 6000) [Muad_Dib]
-- 05-19-2004: <item_db> Corrected Ruby price. (5000 -> 6000) [Muad_Dib]
-- 05-19-2004: <item_db> Corrected Sapphire price. (5000 -> 6000) [Muad_Dib]
-- 05-19-2004: <item_db> Corrected Topaz price. (5000 -> 6000) [Muad_Dib]
-- 05-19-2004: <item_db> Corrected Zircon price. (5000 -> 6000) [Muad_Dib]
-- 05-14-2004: <item_db> Added item 558, and 559 [KrietoR]
-- 05-06-2004: <skill_db> Updated LoV Data1. [Colus]
+- 05-28-2004: Added gm_access.txt file for ALBGM System. [AlexKreuz]
+- 05-25-2004: Added new headgears (not guaranteed correct, I don't read Korean). [Colus]
+- 05-25-2004: Corrected a few incorrect item names. [Colus]
+- 05-23-2004: set a lot of new changes in all maps, correcting some mistakes of the past [KrietoR]
+- 05-21-2004: Name Correction PORING__ > FIRE_PORING [KrietoR]
+- 05-21-2004: Some New changes made by ChrstphrR [ChrstphrR via KrietoR]
+- 05-21-2004: Added 6 new kRO monsters [KrietoR]
+- 05-19-2004: Corrected Emerald price. (5000 -> 6000) [Muad_Dib]
+- 05-19-2004: Corrected Ruby price. (5000 -> 6000) [Muad_Dib]
+- 05-19-2004: Corrected Sapphire price. (5000 -> 6000) [Muad_Dib]
+- 05-19-2004: Corrected Topaz price. (5000 -> 6000) [Muad_Dib]
+- 05-19-2004: Corrected Zircon price. (5000 -> 6000) [Muad_Dib]
+- 05-14-2004: Added item 558, and 559 [KrietoR]
+- 05-06-2004: Updated LoV Data1. [Colus]
 
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
