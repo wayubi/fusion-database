@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 10-15-04: Added missing monsters to mob_db.txt. [Trihan]
 - 10-15-04: Replaced version 1.42 of mob_db.txt with version 1.41 for cleanup. [Trihan]
 - 10-15-04: Revamped mob_db 100% based on jAthena [Muad_Did, KrietoR]
 - 10-15-04: Added item 679, Recall_Pills. [taicomjp]
