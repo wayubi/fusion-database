@@ -2,6 +2,8 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-06-2004: <skill_db> Added Requiements for LK,HW and HP skills. [Eliot]
+- 03-06-2004: <skill_db> Added Job ID numbers for Upper Classes. [Eliot]
 - 03-05-2004: <item_db> Fixed slots on Sword Mace. [Eliot]
 - 03-05-2004: <jobdb 1 and 2> updated job dbs to support ubber classes. [Oatmeal]
 - 03-03-2004: <Mob_DB> Added Quotations to Elder Wilow. [AlexKreuz]
