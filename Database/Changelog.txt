@@ -2,6 +2,7 @@
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
 
+- 01-31-2004: <skill_db> update call spirit level determines how many you have at a time -[Oatmeal]
 - 01-31-2004: <skill_DB> Updated Call Spirit cast time (4s->1.5s) [Colus]
 - 01-31-2004: <skill_DB> Updated Dash Like a Bullet range (5->12) [Colus]
 - 01-31-2004: <id_table> Added new column "PVPCONTROL" for new GM Commands. [Mitch]
