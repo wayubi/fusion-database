@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 02-09-2004: <skill_DB> Fixed Requirements for Body Relocation. [KyuubiKitsune]
 - 02-08-2004: <item_db> Fixed Safety Ring Stats [KyuubiKitsune]
 - 02-08-2004: <item_db> Updated metalprocess.txt added missing Pike. [KyuubiKitsune]
 - 02-08-2004: <mapinfo_DB> Added Valkyrie map support. [Eliot]
