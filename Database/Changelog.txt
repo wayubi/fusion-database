@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 03-13-2004: <item_db> Fixed the Doppelganger_card added the correct bonus stats [KrietoR]
 - 03-13-2004: <item_db> Added 30% of poison resistance to Gas_Mask [KrietoR]
 - 03-13-2004: <item_db> Added 20% of poison resistance to Oxygen_Mask [KrietoR]
 - 03-12-2004: Changed Sacrifice to Devotion, fixed type and range [Eliot]
