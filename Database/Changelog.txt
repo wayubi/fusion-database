@@ -2,13 +2,14 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 04-13-2004: <summon_slave> Fixed the ARCHANGELING Slaves, missing a "," on them [KrietoR]
 - 04-12-2004: <mob_db> Added corrected status to gonryun monsters [KrietoR]
 - 04-12-2004: <Monster_AI> Added Fusions version of AI, removed the others. [Darkhelmet]
 - 04-11-2004: <New AI DB> Fixed if conditions [Darkhelmet]
 - 04-11-2004: Added new AI database [Darkhelmet]
 - 04-11-2004: <warp_db> Added an example warp database [Darkhelmet]
 - 04-08-2004: <mapinfo_db> Added nomemo nosave, in valkyrie map [KrietoR]
-- 04-07-2004: <mob_db> Added mob to ARCHANGELING [KrietoR]
+- 04-07-2004: <summon_slave> Added mob to ARCHANGELING [KrietoR]
 - 04-06-2004: <item_db> Fixed the Bug #705, added correct selling prices [KrietoR]
 - 04-06-2004: <skill_DB> Updated Ashura range/cast time. [Colus]
 - 04-06-2004: <mapinfo_db> Added n_castle.gat,memo,save,teleport,pvp,nopvpg [KrietoR]
