@@ -1,8 +1,14 @@
 ------------------------------------------------------------------------------------------
+Fusion Version 1.210 - February 28th, 2004
+-----------------------------------------------------------------------------------------
+- 02-03-2004: <MapInfo_DB> Added Ygg map & Changed pvpg to nopvpg. [AlexKreuz]
+- 02-01-2004: <MapInfo_DB> Added Niflheim maps to the database. [KyuubiKitsune]
+
+------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
 
-- 02-01-2004: <MapInfo_DB> Added Niflheim maps to the database. [KyuubiKitsune]
+
 - 01-31-2004: <skill_db> update call spirit level determines how many you have at a time -[Oatmeal]
 - 01-31-2004: <skill_DB> Updated Call Spirit cast time (4s->1.5s) [Colus]
 - 01-31-2004: <skill_DB> Updated Dash Like a Bullet range (5->12) [Colus]
