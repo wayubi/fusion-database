@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
+- 02-03-2004: <id_table> Added column 'USERCONTROL' for new GM Commands [Mitch]
 - 02-03-2004: <skill_DB> Updated cast time for Inhale Spirit. [Colus]
 - 02-03-2004: <skill_DB> Updated data for Call Spirit.  Customizable now. [Colus]
 - 02-03-2004: <MapInfo_DB> Added Ygg map & Changed pvpg to nopvpg. [AlexKreuz]
