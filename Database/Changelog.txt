@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
-
+- 03-20-2004: <job_db2> Updated job bonuses for 2-2 classes, uppers, wedding, SN. [Colus]
 - 03-19-2004: <item_db> Fixed Awakening_Potion, now u need lvl 40 to use it [KrietoR]
 - 03-17-2004: <item_db> Fixed Novice_Eggshell, showing Bogun hat > Showing egg_shell, Added 4 def [KrietoR]
 - 03-17-2004: <item_db> Name Correction Eggshell_For_Novice > Novice_Eggshell
