@@ -1,6 +1,9 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-03-04: <mapinfo_db> Removed rwc01.gat. Not in Client[Kiotaru]
+- 11-03-04: <mapinfo_db> Removed rwc02.gat. Not in Client[Kiotaru]
+- 11-03-04: <mapinfo_db> Removed rwc03.gat. Not in Client[Kiotaru]
 - 11-03-04: <warp_db> Added "ayothaya". [Kiotaru]
 - 11-03-04: <mapinfo_db> Added que_god01.gat. [Kiotaru]
 - 11-03-04: <mapinfo_db> Added que_god02.gat. [Kiotaru]

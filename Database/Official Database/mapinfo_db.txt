@@ -428,9 +428,6 @@ que_god02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 quiz_00.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 quiz_01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 quiz_test.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
-rwc01.gat,nomemo,nosave,noteleport,pvp,nopvpn,pvpg,nobranch
-rwc02.gat,nomemo,nosave,noteleport,pvp,nopvpn,pvpg,nobranch
-rwc03.gat,nomemo,nosave,noteleport,pvp,nopvpn,pvpg,nobranch
 sec_in01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 sec_in02.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 sec_pri.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
