@@ -423,6 +423,8 @@ pvp_y_8-2.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
 pvp_y_8-3.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
 pvp_y_8-4.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
 pvp_y_8-5.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
+que_god01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
+que_god02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 quiz_00.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 quiz_01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 quiz_test.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch

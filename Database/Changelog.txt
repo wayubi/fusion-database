@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-03-04: <mapinfo_db> Added que_god01.gat. [Kiotaru]
+- 11-03-04: <mapinfo_db> Added que_god02.gat. [Kiotaru]
 - 11-03-04: <mob_db> Corrected id#1574, G_ELDER_WILOW > G_ELDER_WILLOW. [Kiotaru]
 - 10-28-04: <mob_db> Renamed id#1399, EVENT_BAPHO > HOLLOW_PORING. [Kiotaru]
 - 10-28-04: <mob_db> Renamed id#1223, L_ORC,Orc > XMAS_ORC,"Santa Orc". [Kiotaru]
