@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 12-30-04: <skill_db> Corrected SN_SHARPSHOOTING, ASC_BREAKER, ASC_METEORASSAULT, PF_MINDBREAKER [taicomjp]
 - 12-28-04: <mapinfo_db> Added yuno_fild05, yuno_fild07, yuno_fild08, yuno_fild09, yuno_fild11, yuno_fild12 [taicomjp]
 - 12-27-04: <item_db> Corrected some item heal range 560~569 and updated some item price [taicomjp]
 - 12-27-04: <item_db> Added item 662, Crest of the Horse 569, Novices Red Potion [taicomjp]
