@@ -289,7 +289,7 @@ xmas_dun01.gat,memo,save,teleport,pvp,nopvpg
 xmas_dun02.gat,memo,save,teleport,pvp,nopvpg
 xmas_fild01.gat,memo,save,teleport,pvp,nopvpg
 xmas_in.gat,memo,save,teleport,pvp,nopvpg
-yggdrasil01.af2,memo,save,teleport,pvp,nopvpg
+yggdrasil01.gat,memo,save,teleport,pvp,nopvpg
 yuno.gat,memo,save,teleport,pvp,nopvpg
 yuno_fild01.gat,memo,save,teleport,pvp,nopvpg
 yuno_fild02.gat,memo,save,teleport,pvp,nopvpg
