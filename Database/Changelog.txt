@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
  Fusion 1.214 - 
 --------------------------------------------------------------------------------
+- 02-08-05: Updated skill SM_MAGNUM, SM_PROVOKE, MC_INCCARRY, WZ_METEOR, WZ_ICEWALL, AS_SPLASHER [taicomjp]
+- 02-08-05: Corrected mob TAO_GUNKA, TAMRUAN, MIME_MONKEY, LEAF_CAT, KRABEN [taicomjp]
 - 02-04-05: mob based on jAthena [taicomjp]
 - 02-04-05: Corrected item Durian [taicomjp]
 - 02-04-05: Corrected item type Hard Peach 0 > 3 [taicomjp]
