@@ -136,7 +136,7 @@ hunter_1-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 hunter_2-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 hunter_3-1.gat,nomemo,nosave,teleport,nopvp,nopvpn,nopvpg,nobranch
 in_hunter.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
-in_moc_16.gat,nomemo,nosave,noteleport,pvp,nopvpn,nopvpg,nobranch
+in_moc_16.gat,nomemo,save,noteleport,pvp,nopvpn,nopvpg,nobranch
 in_orcs01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 in_rogue.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,branch
 in_sphinx1.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
