@@ -138,7 +138,7 @@ job_prist.gat,memo,save,teleport,pvp,nopvpg
 job_sage.gat,memo,save,teleport,pvp,nopvpg
 job_sword1.gat,memo,save,teleport,pvp,nopvpg
 job_thief1.gat,memo,save,teleport,pvp,nopvpg
-job_wiz.gat,memo,save,teleport,pvp,nopvpg
+job_wiz.gat,nomemo,nosave,noteleport,nopvp,nopvpg
 job_wizard.gat,memo,save,teleport,pvp,nopvpg
 mag_dun01.gat,memo,save,teleport,pvp,nopvpg
 mag_dun02.gat,memo,save,teleport,pvp,nopvpg
