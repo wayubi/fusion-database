@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-13-04: <job_db2> correcet job 16~23 and 31~45 [taicomjp]
 - 11-03-04: <mapinfo_db> Removed rwc01.gat. Not in Client[Kiotaru]
 - 11-03-04: <mapinfo_db> Removed rwc02.gat. Not in Client[Kiotaru]
 - 11-03-04: <mapinfo_db> Removed rwc03.gat. Not in Client[Kiotaru]
