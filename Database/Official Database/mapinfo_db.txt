@@ -467,6 +467,12 @@ yuno_fild01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
 yuno_fild02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 yuno_fild03.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 yuno_fild04.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+yuno_fild05.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+yuno_fild07.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+yuno_fild08.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+yuno_fild09.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+yuno_fild11.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
+yuno_fild12.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 yuno_in01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 yuno_in02.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 yuno_in03.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
