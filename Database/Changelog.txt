@@ -1,6 +1,12 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 10-13-04: Fixed Heart_of_Honour format. [taicomjp]
+- 10-13-04: Name Correction Murasama > Muramasa. [taicomjp]
+- 10-13-04: Fixed Guard, +3 def. [taicomjp]
+- 10-13-04: Fixed New Year's Gift lose some ",". [taicomjp]
+- 10-13-04: Fixed Fruit_of_Love. [taicomjp]
+- 10-13-04: Fixed Andre_Card, +20 ATK. [taicomjp]
 - 09-01-04: Added payon_in03.gat to mapinfo_db.txt [KrietoR]
 - 08-26-04: Changed the type of the items 682/683 [KrietoR]
 - 08-26-04: Added PvpNightmare and DeadBranches to mapinfo_db.txt [KrietoR]
