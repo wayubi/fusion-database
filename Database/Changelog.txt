@@ -2,6 +2,13 @@
 Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
+- 03-24-2004: <skill_db> Added Item Apraisal Skill to SN Job [KrietoR]
+- 03-24-2004: <skill_db> Added Discount Skill to SN Job [KrietoR]
+- 03-24-2004: <skill_db> Added Overcharge Skill to SN Job [KrietoR]
+- 03-24-2004: <skill_db> Added Pushcart Skill to SN job [KrietoR]
+- 03-24-2004: <skill_db> Added Enlarge Weight Limit Skill to SN job [KrietoR]
+- 03-24-2004: <skill_db> Removed Vulture Eyes Skill from SN Job [KrietoR]
+- 03-24-2004: <skill_db> Removed Act Dead Skill from SN job [KrietoR]
 - 03-24-2004: <item_db> Name Correction Billow > Hard_Hitting_Wave [KrietoR]
 - 03-24-2004: <item_db> Name Correction Omen_of_Tempest > Cat_Drop [KrietoR]
 - 03-24-2004: <item_db> Name Correction Ripple > Quiet_Wave [KrietoR]
