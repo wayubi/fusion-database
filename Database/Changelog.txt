@@ -2,6 +2,9 @@
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
 
+- 01-06-2004: (skill_DB) added change to Raid - [Oatmeal12345]
+- 01-06-2004: (skill_DB) added change to Body Relocation - [Oatmeal12345]
+- 01-06-2004: (skill_DB) added change to Acid terror- [Oatmeal12345]
 - 01-06-2004: (skill_DB) Added data to Steal and Snatcher [Colus]
 - 01-06-2004: (skill_DB) Range for body Relocation [Oatmeal12345]
 - 01-05-2004: (mob_DB) Fixed mode on Clocks (5->17) [Colus]
