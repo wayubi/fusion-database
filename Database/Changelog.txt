@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-16-04: <item_db> Added item 1913, Electric_Guita [taicomjp]
 - 11-15-04: <skill_guild_db> Added new guildskill [taicomjp]
 - 11-15-04: <skill_guild_db> Increase Guild Member skill of guilds will give +6 bonus per level(not work) [taicomjp]
 - 11-15-04: <item_db> Corrected Weight and Price of item 501~568 [taicomjp]
@@ -8,7 +9,7 @@
 - 11-14-04: <skil_db> Updated Maxlevel for CH_PalmStrike, PR_SLOWPOISON [taicomjp]
 - 11-14-04: <skil_db> Updated SP taken for MG_SOULSTRIKE, CH_PalmStrike, PR_SLOWPOISON [taicomjp]
 - 11-14-04: <skil_db> Updated SP taken for LK_AuraBlade, LK_Concentration, PA_Pressure, ST_Reject_Sword ,HW_Napalm_Vulcan [taicomjp]
-- 11-13-04: <job_db2> correcet job 16~23 and 31~45 [taicomjp]
+- 11-13-04: <job_db2> Correcet job 16~23 and 31~45 [taicomjp]
 - 11-03-04: <mapinfo_db> Removed rwc01.gat. Not in Client[Kiotaru]
 - 11-03-04: <mapinfo_db> Removed rwc02.gat. Not in Client[Kiotaru]
 - 11-03-04: <mapinfo_db> Removed rwc03.gat. Not in Client[Kiotaru]
