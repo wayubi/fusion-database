@@ -2,6 +2,7 @@
 Fusion Version 1.210 - February 28th, 2004
 -----------------------------------------------------------------------------------------
 
+- 02-21-2004: <skill_Db> corrected Sword Mastery data [Eliot]
 - 02-12-2004: <skill_Db> updated Dragonology data error [Oatmeal]
 - 02-12-2004: <skill_DB> updated Blade stop type to 4 instead of 1 [Oatmeal]
 - 02-12-2004: <skill_Db> updated Triple blow range [Oatmeal]
