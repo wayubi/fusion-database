@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-11-2004: (skill_db) removed skill Body Relocation from Acolyte [Eliot]
 - 01-11-2004: (skill_db) removed skill Skid Trap from Rogue. [KyuubiKitsune]
 - 01-11-2004: (skill_db) removed skill Ankle Snare from Rogue. [KyuubiKitsune]
 - 01-11-2004: (skill_db) added skill for Rogue -> Trap Remover. [KyuubiKitsune]
