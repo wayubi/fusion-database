@@ -1,6 +1,10 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 11-19-04: <item_db> Corrected item Peeble Ring all statu +5 [taicomjp]
+- 11-19-04: <item_db> Corrected all job [taicomjp]
+- 11-19-04: <item_db> Added item 2640, Kafra's_Ring [taicomjp]
+- 11-19-04: <item_db> Added item 2415, Bunny Slippers [taicomjp]
 - 11-18-04: <item_db> Corrected the Weight of Leaf_of_Yggdrasil(610) [taicomjp]
 - 11-18-04: <item_db> Corrected the Weight of Tribal_Solidarity(658) [taicomjp]
 - 11-18-04: <item_db> Corrected the Weight of Witch's_Carnation(680) [taicomjp]
