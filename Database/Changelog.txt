@@ -3,6 +3,7 @@ Fusion Version 1.210 - February 28th, 2004
 ------------------------------------------------------------------------------------------
 
 - 04-12-2004: <mob_db> Added corrected status to gonryun monsters [KrietoR]
+- 04-12-2004: <Monster_AI> Added Fusions version of AI, removed the others. [Darkhelmet]
 - 04-11-2004: <New AI DB> Fixed if conditions [Darkhelmet]
 - 04-11-2004: Added new AI database [Darkhelmet]
 - 04-11-2004: <warp_db> Added an example warp database [Darkhelmet]
