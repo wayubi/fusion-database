@@ -283,6 +283,7 @@ um_fild03.gat,memo,save,teleport,pvp,nopvpg
 um_fild04.gat,memo,save,teleport,pvp,nopvpg
 um_in.gat,memo,save,teleport,pvp,nopvpg
 umbala.gat,memo,save,teleport,pvp,nopvpg
+valkyrie.gat,memo,save,teleport,pvp,nopvpg
 xmas.gat,memo,save,teleport,pvp,nopvpg
 xmas_dun01.gat,memo,save,teleport,pvp,nopvpg
 xmas_dun02.gat,memo,save,teleport,pvp,nopvpg
