@@ -1,7 +1,7 @@
 ID,ItemLV,RequireSkill,MaterialID1,MaterialAmount1,MaterialID2,MaterialAmount2,MaterialID3,MaterialAmount3
 998,1,94,1002,1
 999,1,95,998,5,1003,1
-1000,0,1,1001,10
+1000,1,96,1001,10
 994,1,96,990,10
 995,1,96,991,10
 997,1,96,993,10

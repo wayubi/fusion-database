@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-14-2004: (metalprocess_db) Star Crumb forging now looks like other metal types [Colus]
 - 01-14-2004: (item_db) Added various new items to the database, such as King's Certificate. [KyuubiKitsune]
 - 01-14-2004: (item_db) Corrected more item Jnames in equipment. [KyuubiKitsune]
 - 01-14-2004: (item_db) Corrected several card's effect's to be up to date. [KyuubiKitsune]
