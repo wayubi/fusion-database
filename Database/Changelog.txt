@@ -2,7 +2,7 @@
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
 - 10-14-04: Corrected mob name, ZHERLTHS > ZEALOTUS. [Kiotaru]
-- 10-14-04: Corrected mob race & element property, WHISPER_ & WHISPER_BOSS. [Kiotaru]
+- 10-14-04: Corrected mob race & element property, WHISPER_ & WHISPER_BOSS to ghost. [Kiotaru]
 - 10-14-04: Added mob_db.txt missing header parameters. [Kiotaru]
 - 10-14-04: Corrected the Weight of Steel, 40 > 10. [taicomjp]
 - 10-14-04: Added item 557, Cut_Rice_Rolls. [taicomjp]
