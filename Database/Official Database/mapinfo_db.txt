@@ -110,7 +110,7 @@ guild_vs3.gat,memo,save,teleport,pvp,nopvpg
 guild_vs4.gat,memo,save,teleport,pvp,nopvpg
 guild_vs5.gat,memo,save,teleport,pvp,nopvpg
 in_hunter.gat,memo,save,teleport,pvp,nopvpg
-in_moc_16.gat,memo,save,teleport,pvp,nopvpg
+in_moc_16.gat,nomemo,nosave,teleport,pvp,nopvpg
 in_orcs01.gat,memo,save,teleport,pvp,nopvpg
 in_rogue.gat,memo,save,teleport,pvp,nopvpg
 in_sphinx1.gat,memo,save,teleport,pvp,nopvpg

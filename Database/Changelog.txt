@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion Version 1.211
 ------------------------------------------------------------------------------------------
+- 05-29-2004: Updated in_moc_16 map information for assassin quest. [Tsusai]
 - 05-28-2004: Added gm_access.txt file for ALBGM System. [AlexKreuz]
 - 05-25-2004: Added new headgears (not guaranteed correct, I don't read Korean). [Colus]
 - 05-25-2004: Corrected a few incorrect item names. [Colus]
