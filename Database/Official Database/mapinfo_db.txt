@@ -354,6 +354,9 @@ pvp_y_8-4.gat,nomemo,nosave,teleport,pvp,nopvpg
 pvp_y_8-5.gat,nomemo,nosave,teleport,pvp,nopvpg
 quiz_00.gat,memo,save,teleport,pvp,nopvpg
 quiz_01.gat,memo,save,teleport,pvp,nopvpg
+rwc01.gat,nomemo,nosave,teleport,pvp,nopvpg
+rwc02.gat,nomemo,nosave,teleport,pvp,nopvpg
+rwc03.gat,nomemo,nosave,teleport,pvp,nopvpg
 sec_in01.gat,memo,save,teleport,pvp,nopvpg
 sec_in02.gat,memo,save,teleport,pvp,nopvpg
 sec_pri.gat,memo,save,teleport,pvp,nopvpg
