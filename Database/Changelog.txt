@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
+- 01-12-2004: (Skill_DB) Fixed requirement for Crusader -> Grand Cross. [AlexKreuz]
 - 01-12-2004: (skill_db) Removed all misplaced skills like Riding when #skillall [KyuubiKitsune]
 - 01-12-2004: (skill_db) Removed Skill from Alchemist -> Sword Mastery. [KyuubiKitsune]
 - 01-12-2004: (skill_db) Added Skill for Dancer -> Fortune's Kiss. [KyuubiKitsune]
