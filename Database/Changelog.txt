@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
  Fusion 1.213 - August 29th, 2004
 --------------------------------------------------------------------------------
+- 10-15-04: Revamped mob_db 100% based on jAthena [Muad_Did, KrietoR]
 - 10-15-04: Added item 679, Recall_Pills. [taicomjp]
 - 10-14-04: Corrected mob name, ZHERLTHS > ZEALOTUS. [Kiotaru]
 - 10-14-04: Corrected mob race & element property, WHISPER_ & WHISPER_BOSS to ghost. [Kiotaru]
