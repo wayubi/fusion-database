@@ -1,6 +1,11 @@
 --------------------------------------------------------------------------------
  Fusion 1.214 - 
 --------------------------------------------------------------------------------
+- 02-03-05: Clean item sell to 0 [taicomjp]
+- 02-03-05: Corrected item weight 1243, 2352, 2414, 5055 [taicomjp]
+- 02-03-05: Added item 5100, Sale_Sign [taicomjp]
+- 02-03-05: Added item 2641, Fashion_Backpack [taicomjp]
+- 02-03-05: Added item 2511, Skeleton_Manteau [taicomjp]
 - 02-02-05: Added mob 1587, Kraben [taicomjp]
 - 02-02-05: Added mob 1586, Leaf Cat [taicomjp]
 - 02-02-05: Added mob 1585, Mime Monkey [taicomjp]
