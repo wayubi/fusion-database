@@ -30,7 +30,7 @@ arena_room.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,nobranch
 ayo_dun01.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 ayo_dun02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 ayo_fild01.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
-ayo_fild02.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch
+ayo_fild02.gat,nomemo,save,teleport,nopvp,nopvpn,nopvpg,branch
 ayo_in01.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,branch
 ayo_in02.gat,nomemo,save,noteleport,nopvp,nopvpn,nopvpg,branch
 ayothaya.gat,memo,save,teleport,nopvp,nopvpn,nopvpg,branch

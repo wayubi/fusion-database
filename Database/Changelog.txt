@@ -1,4 +1,18 @@
 --------------------------------------------------------------------------------
+ Fusion 1.214 - 
+--------------------------------------------------------------------------------
+- 02-02-05: Added mob 1587, Kraben [taicomjp]
+- 02-02-05: Added mob 1586, Leaf Cat [taicomjp]
+- 02-02-05: Added mob 1585, Mime Monkey [taicomjp]
+- 02-02-05: Added mob 1584, Tamruan [taicomjp]
+- 02-02-05: Added mob 1583, Tao Gunka [taicomjp]
+- 02-02-05: Corrected item  7271, Novice Figurine [taicomjp]
+- 02-02-05: Corrected mob ORK_HERO > ORC_HERO [taicomjp]
+- 02-02-05: Corrected mob ORK_WARRIOR > ORC_WARRIOR [taicomjp]
+- 02-02-05: Corrected mob ZEALOTUS > ZHERLTHSH [taicomjp]
+- 02-01-05: Updated map ayo_fild02 nomemo [taicomjp]
+
+--------------------------------------------------------------------------------
  Fusion 1.213 - January 28th, 2005
 --------------------------------------------------------------------------------
 - 01-25-05: Final preparation for 1.213 release. [AlexKreuz]
