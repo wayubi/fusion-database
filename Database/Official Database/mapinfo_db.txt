@@ -66,7 +66,7 @@ gef_fild09.gat,memo,save,teleport,pvp,pvpg
 gef_fild10.gat,memo,save,teleport,pvp,pvpg
 gef_fild11.gat,memo,save,teleport,pvp,pvpg
 gef_fild12.gat,memo,save,teleport,pvp,pvpg
-gef_fild13.gat,memo,save,teleport,pvp,pvpg
+gef_fild13.gat,memo,save,teleport,pvp,pvpg,agit
 gef_fild14.gat,memo,save,teleport,pvp,pvpg
 gef_tower.gat,memo,save,teleport,pvp,pvpg
 geffen.gat,memo,save,teleport,pvp,pvpg

@@ -2,6 +2,7 @@
 Fusion DB Pack 1.002 - January ??, 2004
 -----------------------------------------------------------------------------------------
 - 01-14-2004: (item_db) Corrected several card's effect's to be up to date. [KyuubiKitsune]
+- 01-13-2004: (mapinfo_DB) Updated territories. [Colus]
 - 01-13-2004: (item_db) Corrected Cast-Time Reducing Items to reduce correct values. [KyuubiKitsune]
 - 01-13-2004: (item_db) Corrected lots of item names, added lots of items, fixed items [Eliot,Mudvayne]
 - 01-12-2004: (mob_ai_DB) Finished?  First full release  [Ukyo]
